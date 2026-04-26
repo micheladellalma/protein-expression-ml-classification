@@ -1,4 +1,4 @@
-# ML-Classification
+# protein-expression-ml-classification
 
 # Protein Expression in mice with Down Syndrome
 
