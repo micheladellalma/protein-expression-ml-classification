@@ -2,7 +2,7 @@
 
 # Protein Expression in mice with Down Syndrome
 
-## Description
+## Project Overview
 
 The project is divided into four main parts:
 1. [Preliminary analysis]
