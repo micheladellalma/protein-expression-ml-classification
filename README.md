@@ -5,12 +5,12 @@
 ## Project Overview
 
 The project is divided into four main parts:
-1. [Preliminary analysis]
-2. [Classification]
-3. [Prediction with different algorithms and evaluation]
-4.a [Prediction of the expression values of the protein]
-4.b [Determination if the test performance of the best model found at 
-step (2.) improves if the SOD1_N feature is also used for prediction (and training).]
+1. Preliminary analysis
+2. Classification
+3. Prediction with different algorithms and evaluation
+4.a Prediction of the expression values of the protein
+4.b Determination if the test performance of the best model found at 
+step (2.) improves if the SOD1_N feature is also used for prediction (and training).
 
 Programming language: Python in jupyter notebook
 The datasets used for the analysis are: training and test datasets
