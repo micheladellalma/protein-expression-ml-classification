@@ -1,10 +1,14 @@
 # protein-expression-ml-classification
 
-# Protein Expression in mice with Down Syndrome
+# :dna: Protein Expression classification in mice with Down Syndrome
 
-## Project Overview
-
-The project is divided into four main parts:
+## :bar_chart: Dataset
+The dataset contains:
+- 76 protein expression features
+- 8 classes representing different experimental conditions
+- Only continous variables
+- No missing values
+  
 1. Preliminary analysis
 2. Classification
 3. Prediction with different algorithms and evaluation
@@ -14,6 +18,25 @@ step (2.) improves if the SOD1_N feature is also used for prediction (and traini
 
 Programming language: Python in jupyter notebook
 The datasets used for the analysis are: training and test datasets
+
+## :mag: Exploratory data analysis (EDA)
+An initial exploratory data analysis was performed on the training dataset:
+- Inspection of feature distributions using boxplots
+- Analysis of varaibility across protein expressions
+- Verification of dataset quality (no missing values)
+
+This steps helped understand:
+- Data dispersion
+- Potential outliers
+- General structure of the dataset
+
+## Machine learning tasks
+### 1. Classification task
+Goal: classify each sample into one of 8 classes
+
+### 2. Regression task
+
+### Project structure
 
 ### 1. Preliminary analysis: exploratory data analysis on training data
 - Inspection of classes and parameters/proteins
