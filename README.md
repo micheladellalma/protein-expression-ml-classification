@@ -33,8 +33,8 @@ Goal: classify each sample into one of 8 classes
 
 ## :arrow_forward: How to run
 
-## Key insights
+## 📌 Key insights
 
-## Possible Improvements
+## 🚀 Possible improvements
 
-## Context
+## 📚 Context
